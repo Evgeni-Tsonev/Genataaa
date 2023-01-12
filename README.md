@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Evgeni Tsonev</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🔭 I’m currently working on [Top Courses](https://github.com/Genataaa/Asp.Net-Project-TopCourses)
+- 🔭 I’m currently working on [House Renting System](https://github.com/Genataaa/HouseRentingSystem)
 
-- 🌱 I’m currently learning **Asp.Net, JavaScript, React**
+- 🌱 I’m currently learning **Asp.Net, JavaScript, Data Structures**
 
 - 💬 Ask me about **Asp.Net**
 
