@@ -50,6 +50,6 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
 
 <p align="center">
-  <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=genataaa&show_icons=true&include_all_commits=true&theme=radical" />
-  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genataaa&include_all_commits=true&theme=radical" />
+  <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=genataaa&show_icons=true&include_all_commits=true&theme=dark" />
+  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genataaa&include_all_commits=true&theme=dark" />
 </p>
