@@ -10,9 +10,7 @@
 
 -   :school: I am a `Junior Web Developer`
 -   :technologist: I love using Software as a solution for every `Problem`.
--   :student: I’m currently learning `React` and `Data Structures and Algorithms`.
 -   :nerd_face: Always `learning new things`.
--   :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1cvmKVfdzow1uv5qhHJfpqMSc8BcK1L5q/view?usp=share_link).
     <br>
 
 <br><br><br>
